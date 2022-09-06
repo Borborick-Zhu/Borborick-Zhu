@@ -15,6 +15,6 @@ Since you can see all my coding projects here on Github anyway, I can run you th
 
 ## Reach out to me!
 If you want to chat more definitely reach out to me!
-Instagram: @bkrnoick
-Facebook: Borborick Zhu
+* Instagram: @bkrnoick
+* Facebook: Borborick Zhu
 
