@@ -10,8 +10,7 @@ involved in healthcare.
 Since you can see all my coding projects here on Github anyway, I can run you through my hobbies real quick.
 * I love playing sports - Ultimate Frisbee, Basketball, Tennis you name it.
 * I am also very big into PC hardware - the PC itself, keyboard, mice etc. 
-* I love cleaning and cooking. If I didn't study CS I would probably have gone to Culinary School. 
-
+* I love cooking and... eating. My love for eating probably explains why I love cooking. On that note, I also find doing house chores very therapeutic. 
 
 ## Reach out to me!
 If you want to chat more definitely reach out to me!
