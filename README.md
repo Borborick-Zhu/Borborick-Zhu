@@ -1,9 +1,7 @@
 
 # What's up! 👋
 
-My name is Borborick, but please call me Bobo. My full name is too much of a hassle to pronounce. If you are curious though, it is bor-bor-ick. Very phonetic I know. 
-I am currently a Sophomore studying Computer Science at UCLA. I have a huge passion in the intersection between health and technology - moreso how tech can become more 
-involved in healthcare. 
+My name is Borborick, but please call me Bobo. I am currently a Sophomore studying Computer Science at UCLA. I have a huge passion in the intersection between health and technology - moreso how tech can become more involved in healthcare. 
 
 ## My Hobbies 📫
 
